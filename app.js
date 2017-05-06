@@ -15,7 +15,7 @@ var clients = [];
 // Environment
 //var environment = cfenv.getAppEnv();
 var environment = [];
-environment.port = 8002;
+environment.port = 8080;
 // Web
 var app = express();
 
