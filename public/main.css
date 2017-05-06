@@ -1,0 +1,19 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	overflow:hidden;
+		font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+		background: rgb(241,251,255);
+}
+#joiningDiv{
+	width:98vw;
+	font-size:4em;
+	height:98vh;
+	z-index:5000;
+	position:absolute;
+	background-color:white;
+	text-align:center;
+	padding-top: 2vh;
+	padding-left: 2vw;
+	
+}
