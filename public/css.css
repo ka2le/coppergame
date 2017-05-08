@@ -4,7 +4,15 @@ body{
 	overflow:hidden;
 		font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
-
+#gameFrame{
+	height:90vh;
+	width:100vw;
+	position:absolute;
+	top:10vh;
+	border:none;
+	margin:0px;
+	
+}
 #canvasContainer{
 	position:absolute;
 	top: 0px;
